@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+#This is just a test
 import cv2
 import numpy
 from Hgabor import *
@@ -7,7 +9,6 @@ from MaxFilter import *
 from GlobalMaxFilter import *
 from GRBFFilter import *
 import os
-
 #global s1SStep=1
 
 nsii=12
